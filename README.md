@@ -12,7 +12,7 @@ No seu XCode Tool Bar siga estes passos para instalar as dependências:
 File > Swift Packages > Add Package Dependencies
 ~~~
 
-Em seguida, cole a url do repositório: https://github.com/kellyanenogueira1/Konboarding.git
+Em seguida, cole a url do repositório: https://github.com/kellyanenogueira1/Konboarding.git e selecione a branch main.
 
 ## 🔖 Como usar
 
